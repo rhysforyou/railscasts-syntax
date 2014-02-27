@@ -1,0 +1,12 @@
+{
+  "name": "theme-railscasts",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A port of @ryanb's timeless RailsCasts theme",
+  "repository": "https://github.com/atom/theme-railscasts",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
