@@ -1,7 +1,7 @@
 {
   "name": "railscasts-syntax",
   "theme": "syntax",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
   "description": "A port of @ryanb's timeless RailsCasts theme",
   "repository": "https://github.com/rpowelll/railscasts-syntax",
